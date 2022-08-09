@@ -1,0 +1,19 @@
+{
+    "name": "ramon/mvc-php",
+    "description": "Estudo PHP com MVC e Orientação a Objeto",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RamonSouto",
+            "email": "rdssi@hotmail.com"
+        }
+    ],
+    "require": {
+        "php":"*8.0"
+    }
+}
